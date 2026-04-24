@@ -1,0 +1,2 @@
+id,patientId,doctorId,appointmentTime,status,notes
+APT002,DOC007,PAT005,2026-04-14 15:23,PENDING,Test appointment
